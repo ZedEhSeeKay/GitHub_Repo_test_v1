@@ -13,3 +13,10 @@ Commit these changes to your local repo. How? (Instructions)
 3. If you're not already in the Git pop-up, click "Commit"
 4. Type a message in "Commit message", such as "Commit from RStudio"
 5. Click "Commit"
+
+Workflow:
+1. Save file
+2. Go to "Git" tab and check staged box, then hit "Commit pending changes"
+3. Commit changes
+4. Pull using blue arrow (ensure no additions from other collaborators, etc)
+5. Push using green arrow (Updates the Github)
