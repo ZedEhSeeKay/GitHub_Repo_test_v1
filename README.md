@@ -4,3 +4,4 @@ Following instructions from: https://happygitwithr.com/new-github-first#new-gith
 This is a line from RStudio
 
 This is a line from GitHub
+
