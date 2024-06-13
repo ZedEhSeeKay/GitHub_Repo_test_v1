@@ -6,3 +6,5 @@ usethis::create_from_github(
   "https://github.com/ZedEhSeeKay/HTTPS_link_from_repo",
   destdir = "E:/R_git_rep"
 )
+
+#updated from GitHub Desktop
