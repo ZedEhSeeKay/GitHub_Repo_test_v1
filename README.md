@@ -7,6 +7,8 @@ This is a line from GitHub
 
 PULL BEFORE PUSH!
 
+**Make sure to run "usethis" from Test_R_file to open "Git" tab
+
 Commit these changes to your local repo. How? (Instructions)
 1. Click the "Git" tab in upper right pane
 2. Check "Staged" box for any files whose existence or modifications you want to commit.
